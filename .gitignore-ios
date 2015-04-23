@@ -1,6 +1,6 @@
 *.DS_Store
  
-./Vibin/build/
+./${project name}/build/
  
 *.pbxuser
 *.perspective
@@ -10,7 +10,7 @@
 *.mode2v3
 xcuserdata
  
-./Vibin/Documentation/Generated
+./${project name}/Documentation/Generated
 
 #CocoaPods
 Pods
